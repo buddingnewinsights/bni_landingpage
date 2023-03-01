@@ -1,3 +1,5 @@
+/** @jsx jsx */
+import { jsx } from '@emotion/react'
 import Chat from 'assets/widget/chat.svg';
 import Community from 'assets/widget/community.svg';
 import Github from 'assets/widget/github.svg';
